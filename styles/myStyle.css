@@ -1,0 +1,211 @@
+﻿body {
+    /*background-color: #C1EDFF;*/
+    /*background-color: white;*/
+    background-color: #F0FBFF;
+    font-family: 'Assistant', sans-serif; 
+}
+.myBack{
+    background-image:url(../images/bacrundAll3-01.jpg);
+    background-size:100%;
+}
+#container{
+    overflow:hidden;
+}
+#continer2{
+    width: 960px;
+    margin: 0 auto;
+}
+
+gameArea {
+    width: 100%;
+    height: 100%;
+    
+}
+
+iframe {
+    width: 100%;
+    height: 90%;
+    position: absolute;
+}
+
+
+#gameArea {
+    margin-top: -20px;
+}
+
+#logo {
+    width: 150px;
+    height: 50px;
+    margin-right: 10px;
+}
+
+nav {
+    font-size: large;
+    font-weight: bold;
+}
+
+p {
+    font-size: medium;
+}
+
+.b {
+    font-weight: bold;
+}
+.TextElineRite{
+    text-align:right;
+}
+.odotForLink{
+    margin-right:-130px;
+    display:inline-block;
+}
+.odot{
+    margin-top:30px;
+}
+.color {
+    color: #ff6600;
+}
+
+#insPic {
+    width: 184px;
+    position: absolute;
+    margin-right: 384px;
+    margin-top: 92px;
+}
+
+#aboutLogo{
+    display:inline;
+    float:right;
+    margin-right:120px;
+}
+#hedLogo{
+    display:inline;
+    float:right;
+   margin-right:50px;
+}
+.hedLogo{
+    display:inline-block;
+    margin-right:-100px;
+}
+
+
+.royal{
+    text-align: center;
+}
+
+
+.x-large{
+        font-size: x-large !important;
+}
+
+large{
+    font-size: 19pt !important;
+}
+
+.sizeIt{
+    font-size: 14pt;
+}
+
+#aboutLogoSrc {
+    margin: 0px 91px 0 100px;
+
+}
+
+.telem{
+
+    text-align: right;
+}
+
+#hitLogo{
+    width: 66px;
+    float: right;
+    margin-right: 24%;
+    margin-left: 2%;
+}
+
+
+.navbar-default {
+    /*background-color: #0068b6;
+    border-color: #0068b6 !important;*/
+       background-image:url(../images/bacNav2-01.jpg);
+    background-size:100% 100%;
+}
+
+    .navbar-default .navbar-brand {
+        color: #ffffff;
+    }
+
+        .navbar-default .navbar-brand:hover,
+        .navbar-default .navbar-brand:focus {
+            color: #151413;
+        }
+
+    .navbar-default .navbar-text {
+        color: #ffffff;
+    }
+
+    .navbar-default .navbar-nav > li > a {
+        color: #ffffff;
+    }
+
+        .navbar-default .navbar-nav > li > a:hover,
+        .navbar-default .navbar-nav > li > a:focus {
+            color: #151413;
+        }
+
+    .navbar-default .navbar-nav > .active > a,
+    .navbar-default .navbar-nav > .active > a:hover,
+    .navbar-default .navbar-nav > .active > a:focus {
+        color: #151413;
+        background-color: #f9ba8d;
+    }
+
+    .navbar-default .navbar-nav > .open > a,
+    .navbar-default .navbar-nav > .open > a:hover,
+    .navbar-default .navbar-nav > .open > a:focus {
+        color: #151413;
+        background-color: #f9ba8d;
+    }
+
+    .navbar-default .navbar-toggle {
+        border-color: #f9ba8d;
+    }
+
+        .navbar-default .navbar-toggle:hover,
+        .navbar-default .navbar-toggle:focus {
+            background-color: #f9ba8d;
+        }
+
+        .navbar-default .navbar-toggle .icon-bar {
+            background-color: #ffffff;
+        }
+
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        border-color: #ffffff;
+    }
+
+    .navbar-default .navbar-link {
+        color: #ffffff;
+    }
+
+        .navbar-default .navbar-link:hover {
+            color: #151413;
+        }
+
+@media (max-width: 767px) {
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        color: #ffffff;
+    }
+
+        .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
+        .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+            color: #151413;
+        }
+
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+    .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+        color: #151413;
+        background-color: #f9ba8d;
+    }
+}

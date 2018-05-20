@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<allGames>
+  <counterGame>106</counterGame>
+  <game id="101" publish="true">
+    <name>סרטים ישראלים</name>
+    <category>סרטים ישראלים</category>
+    <Guideline>פוצצו את האסטרויידים שעליהם מופעים סרטים ישראליים והתחמקו מהאחרים</Guideline>
+    <counterItem>8</counterItem>
+    <item id="1" textImage="text" trueFalse="true">מועדון החנונים</item>
+    <item id="2" textImage="text" trueFalse="true">איגור ומסע העגורים</item>
+    <item id="3" textImage="text" trueFalse="true">גאליס המסע לאסטרה</item>
+    <item id="4" textImage="text" trueFalse="true">האוצר מעבר לנהר</item>
+    <item id="5" textImage="text" trueFalse="false">שלושה שלטים מחוץ לאבינג, מיזורי</item>
+    <item id="6" textImage="text" trueFalse="false">פלא</item>
+    <item id="7" textImage="text" trueFalse="false">מלחמת הכוכבים אחרוני הג'דיי</item>
+    <item id="8" textImage="text" trueFalse="false">משפחה בהחלפה</item>
+  </game>
+  <game id="106" publish="false">
+    <name>סטודנטים בטלמ לקבוצה 3</name>
+    <category>סטונדטים בטלמ</category>
+    <Guideline>פוצצו את האסטרויידים עם הפריטים הנכונים והתחמקו מהאחרים</Guideline>
+    <counterItem>10</counterItem>
+    <item id="1" textImage="text" trueFalse="true">אופיר</item>
+    <item id="2" textImage="text" trueFalse="true">עמר</item>
+    <item id="3" textImage="text" trueFalse="false">מורג</item>
+    <item id="4" textImage="text" trueFalse="false">אלונה</item>
+    <item id="5" textImage="text" trueFalse="true">זיו</item>
+    <item id="6" textImage="text" trueFalse="true">גיא</item>
+    <item id="7" textImage="text" trueFalse="true">טל</item>
+    <item id="8" textImage="text" trueFalse="false">רונן אשר</item>
+    <item id="9" textImage="text" trueFalse="false">יעל</item>
+    <item id="10" textImage="text" trueFalse="true">שובל</item>
+  </game>
+</allGames>
